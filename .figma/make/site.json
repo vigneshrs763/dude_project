@@ -1,0 +1,10 @@
+{
+  "description": "Streamline college operations with a comprehensive management system for student records, staff management, and maintenance requests, enhancing efficiency and communication.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
